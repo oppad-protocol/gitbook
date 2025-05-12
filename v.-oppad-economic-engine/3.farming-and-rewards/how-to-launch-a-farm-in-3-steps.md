@@ -41,5 +41,4 @@ Click `Deploy Contract` from the farming dashboard.
 * Monitor live analytics (TVL, rewards distributed) via dashboard
 * Use Webhook alerts or backend feeds to stay notified
 
-> \[!TIP]\
-> Want to run multiple farms? Simply repeat the steps. OPPAD supports **multi-pool deployment** per project.
+>

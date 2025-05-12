@@ -63,7 +63,6 @@
 ## 📕 OFFICIAL LINKS AND SOCIALS&#x20;
 
 * [Website](https://oppad.io/)
-* [Whitepaper](https://guide.oppad.io/)
 * [Tokenomics](https://tokenomics.oppad.io/)
 * [Official Telegram Community](http://t.me/Oppadeth)
 * [Github](https://github.com/oppad-protocol)

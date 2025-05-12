@@ -148,5 +148,6 @@ mermaidCopyEditflowchart TB
 
 ***
 
-> \[!INFO]\
-> Farming complements OPPAD staking and NFTs — enabling liquidity providers to **earn yield**, **boost governance access**, and **support early-stage projects** all at once.
+{% hint style="success" %}
+Farming complements OPPAD staking and NFTs — enabling liquidity providers to **earn yield**, **boost governance access**, and **support early-stage projects** all at once.
+{% endhint %}
