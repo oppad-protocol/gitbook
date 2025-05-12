@@ -41,10 +41,10 @@
 
 * [1.What is O-Pump?](o-pump-mode-tm/1.what-is-o-pump.md)
 * [2.How It Works](o-pump-mode-tm/2.how-it-works.md)
-* [Super Projects](o-pump-mode-tm/super-projects.md)
-* [3.Safety First](o-pump-mode-tm/3.safety-first.md)
-* [4.O-Pump vs Others](o-pump-mode-tm/4.o-pump-vs-others.md)
-* [5.Use Cases](o-pump-mode-tm/5.use-cases.md)
+* [3.Super Projects](o-pump-mode-tm/3.super-projects.md)
+* [4.Safety First](o-pump-mode-tm/4.safety-first.md)
+* [5.O-Pump vs Others](o-pump-mode-tm/5.o-pump-vs-others.md)
+* [6.Use Cases](o-pump-mode-tm/6.use-cases.md)
 
 ## 📕  V. OPPAD Economic Engine
 
